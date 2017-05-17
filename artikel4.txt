@@ -1,0 +1,21 @@
+Tingginya jumlah korban yang terinfeksi ransomware WannaCry membuat was-was. Banyak pihak langsung sigap mengantisipasi agar tak ikut menjadi korban serangan malware tersebut.
+
+XL Axiata, misalnya, mereka juga ikut melakukan upaya proteksi. Mulai dari update patch hingga melakukan pembaruan antivirus secara regular.
+
+"Untuk update patch secara lebih aktif bahkan mulai kami lakukan sejak awal tahun sebagai antisipasi atas hal-hal serupa ini," kata Tri Wahyuningsih, General Manager Corporate Communication XL Axiata kepada detikINET, Selasa (16/5/2017).
+
+Pihak XL pun terut mencermati dan melakukan monitoring terhadap semua perangkat komputer dan notebook karyawan untuk memastikan virus dan malware tidak mengganggu aktivitas operasional perusahaan.
+
+Selain itu, operator yang identik dengan warna biru itu turut mengeluarkan imbauan kepada para karyawan untuk lebih berhati-hati dan mengikuti semua prosedur pengamanan data internal, termasuk di antaranya melakukan back-up data, tidak membuka email dan lampiran yang tidak dikenal, melakukan update antivirus dan sebagainya. Tidak ketinggalan mereka pun melakukan imbauan kepada para pelanggannya.
+
+"Kami mengirimkan imbauan kepada pelanggan lewat broadcast SMS agar mereka terhindar dari serangan Ransomeware," kata wanita yang kerap disapa Ayu itu.
+
+Seperti diketahui Ransomware WannaCry berbasis program yang dikembangkan National Security Agency (NSA) milik Amerika Serikat. WannaCry akan menyandera data korban dan meminta uang tebusan jika korbannya ingin data tersebut dikembalikan.
+
+WannaCry memanfaatkan celah keamanan di sistem operasi jadul Microsoft, juga sistem operasi anyar yang tak memperbarui patch keamanannya.
+
+Malware ini mulai menyerang pada Jumat malam (12/5/2017). Tercatat ada puluhan komputer di 99 negara di dunia yang terinfeksi ransomware bernama WannaCrypt. Rata-rata komputer yang terinfeksi adalah sektor publik, seperti rumah sakit dan ada juga bandara.
+
+Di Inggris dilaporkan belasan layanan kesehatan dipastikan terinfeksi ransomware WannaCrypt. Yang mana tiap-tiap komputer yang terinfeksi data-datanya dikunci dengan cara enkripsi. Bila ingin data-data tersebut dibebaskan maka ada tebusan yang harus dibayar.
+
+Indonesia pun termasuk negara yang terkena dampak penyebaran WannaCrypt. Dua rumah sakit di wilayah Jakarta disebut kena serangan ransomware ini, dan bikin pelayanannya.

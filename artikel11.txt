@@ -1,0 +1,11 @@
+Direktur Utama Badan Penyelenggara Jaminan Sosial (BPJS) Ketenagakerjaan, Agus Susanto memastikan seluruh data yang menyangkut informasi peserta BPJS Ketenagakerjaan aman dari serangan ransomware WannaCry yang saat ini tengah menyerang negara-negara di dunia, termasuk Indonesia.
+
+Seperti diketahui, ransomware WannaCry merupakan jenis perangkat lunak perusak yang dirancang untuk menghalangi akses kepada sistem komputer atau data yang bekerja dengan mengunci sistem dan mengenkripsi berkas sehingga tidak dapat diakses.
+
+"Dari kemarin sudah saya instruksikan ke seluruh jajaran, dari tim IT kita untuk antisipasi hal-hal tersebut, mengikuti himbauan dari Kominfo, apa saja yang akan dilakukan, dan tadi pagi saya datang ke kantor, saya langsung manggil kepala divisi IT untuk periksa langsung ke lapangan. Dan semua dipastikan aman," katanya saat ditemui di Kantor Pusat BPJS Ketenagakerjaan, Jakarta, Senin (15/5/2017).
+
+Meski telah melakukan tindakan preventif, Agus mengaku hal ini akan terus diawasi mengingat antisipasi perlu dilakukan agar operasional BPJS Ketenagakerjaan tak terganggu.
+
+"Ini akan terus dikawal untuk dilakukan antisipasi," pungkasnya.
+
+Seperti diketahui, menghindari terkenanya ransomware WannaCry dapat dilakukan dengan memindahkan data-data ke sistem operasi non windows atau ke media penyimpanan lainnya, tapi dengan terlebih dahulu memutuskan koneksi internet ke LAN dan juga hotspot atau WiFi. Setelah itu, koneksi komputer dapat diaktifkan kembali sambil memperbaharui antivirus sesuai yang telah dihimbau oleh Kementerian Komunikasi dan Informatika.

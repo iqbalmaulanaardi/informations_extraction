@@ -1,0 +1,15 @@
+Sejak akhir pekan lalu, ancaman ransomware jenis WannaCrypt atau dikenal WannaCry mengintai, tak terkecuali di Indonesia. Menkominfo Rudiantara pun melakukan berbagai langkah antisipasi, antara lain 'menggebrak' para operator untuk melakukan sosialisasi.
+
+"Sejak Sabtu kita (pemerintah) sosialisasikan, Minggu sampai Senin juga masih terasa. Ini belum berakhir, makanya Senin kemarin, saya 'gebrak' para operator untuk SMS blast soal serangan ini ke masyarakat," tuturnya di Djakarta Theater, Jakarta, Selasa (16/5/2017).
+
+"Belakangan ini banyak hoax yang beredar, serangan seperti kemarin bisa jadi hoax. Tapi setelah operator SMS blast ke masyarakat, jadi tahu kalau serangan ini bukan hoax," kata Rudiantara.
+
+Menteri yang akrab dipanggil Chief RA ini pun kembali mengemkakan saran bagi yang merasa belum aman dengan ancaman WannaCry. Yaitu seperti sudah diberitakan, adalah dengan melakukan putus hubungan koneksi jaringan internet.
+
+"Sebelum hidupkan (jaringan koneksi internet) komputer, putuskan hubungan untuk sementara. Ini bukan putus hubungan dalam arti untuk laki-laki," ucapnya berkelakar.
+
+"Artinya, komputer yang terhubung jaringan internet, putuskan dulu, stand alone," tambahnya.
+
+Sementara untuk imbauan selanjutnya, pria yang disapa Chief RA ini, mengungkapkan bahwa data-data di komputer tersebut harus dilakukan back up, sebelum kembali menyambungkan ke koneksi internet.
+
+"Jangan lupa back up data-datanya di komputer, karena serangan (WannaCry) ini permasalahannya sederhana, datanya dienkripsi. Kalau sudah kena (serangan), itu beda lagi,"ucapnya.

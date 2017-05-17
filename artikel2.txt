@@ -1,0 +1,17 @@
+Upaya pemerintah dalam mengantisipasi serangan ransomware WannaCrypt atau lebih dikenal dengan WannaCry gencar dilakukan. Salah satunya lewat mengirimkan SMS kepada masyarakat.
+
+SMS atas nama Kominfo ini menghimbau agar masyarakat melakukan beberapa hal, seperti meminta menonaktifkan LAN/Hotspot sementara dan lakukan backup data. Tujuannya agar masyarakat tidak terjangkit malware komputer tersebut.
+
+Penyebaran SMS WannaCry ini berkat titah langsung Menteri Komunikasi dan Informatika (Menkominfo) Rudiantara ke seleruh operator seluler di Tanah Air.
+
+"Senin kemarin, saya 'gebrak' operator untuk SMS blast soal serangan ini ke masyarakat," ujar Rudiantara, Jakarta, Selasa (16/5/2017).
+
+Tidak semua pengguna seluler mendapatkan informasi tersebut. Kendalanya karena waktunya yang mempet hingga hanya di beberapa daerah saja yang disasarnya.
+
+"Waktunya pendek, SMS blast ke seluruh pelanggan itu perlu waktu. Saat ini kita prioritaskan di Pulau Jawa, khususnya Jakarta, yang banyak PC-nya," ucapnya.
+
+Dengan adanya SMS tersebut, Menkominfo berharap tidak ada berita simpang siur atau hoax soal WannaCry. Selain itu membuat masyarakat cepat mengantisipasi sebelum terlambat.
+
+Dalam kesemapatan ini, Menkominfo memastikan bahwa malware WannaCry tidak menyerang smartphone. Sehingga pemilik gadget tak perlu khawatir dengan serangan tersebut.
+
+"Tenang, ponsel aman. Lagian gak ada ponsel pakai Microsoft versi PC. Jadi, ponsel aman," ucapnya.

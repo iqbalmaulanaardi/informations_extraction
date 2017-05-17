@@ -1,0 +1,13 @@
+Serangan virus Ransomeware jenis WannaCry terjadi secara global, termasuk di Indonesia. Polri meningkatkan sistem pengamanan situsnya mengantisipasi serangan virus.
+
+"Ya termasuk Divisi Humas kita matikan, karena kan ada imbauan dari Kominfo untuk aparatur pemerintah dan lembaga itu silakan meningkatkan pengamanan. Kita lakukan (pengamanan)," kata Kabag Penum Divisi Humas Polri Kombes Martinus Sitompul saat ditemui di Mabes Polri, Jalan Trunojoyo, Kebayoran Baru, Jakarta Selatan, Selasa (16/5/2017).
+
+Tata cara pengamanan, menurutnya, sudah disampaikan pihak Kominfo sebelumnya. Hal ini jugalah yang dilakukan Polri berkaitan dengan pengamanan situs milik kepolisian.
+
+"Cara kan sudah disampaikan, matikan Wi-Fi, matikan jaringan komputer, pasang antivirus, kemudian bisa dihidupkan. Kita kan namanya pencegahan dilakukan," ujarnya.
+
+Terkait serangan virus ini, Polri melakukan penyelidikan. Polisi menggali informasi dari berbagai pihak tentang karakteristik virus.
+
+"Polisi sudah mulai melakukan penyelidikan dengan diawali pengumpulan informasi dari berbagai pihak. Kami juga sudah siapkan tim sidik dan tim olah TKP digital forensic," jelas Direktur Siber Bareskrim Brigjen Fadil Imran, Senin (15/5).
+
+Fadil menjelaskan cara kerja virus tersebut adalah mengunci sistem sehingga file tidak dapat diakses penggunanya. Untuk membuka kunci tersebut, si penyebar virus meminta tebusan. Saat ini jenis virus yang meneror adalah WannaCryptor 2.0 Ransomware. 

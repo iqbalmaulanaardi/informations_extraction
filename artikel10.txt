@@ -1,0 +1,39 @@
+Sabtu, 13 Mei 2017 pagi, setelah solat Subuh, muncul berita di lini masa mengenai serangan ransomware kepada NHS, suatu sistem kesehatan di Inggris yang menjadi dasar layanan publik di sana. Segera, informasi tersebut dibagikan kepada grup ICSF (Indonesia Cyber Security Forum) untuk menjadi perhatian.
+
+Tak dianya sama sekali, secara beruntun kemudian muncul laporan serangan dengan skala yang semakin luas dan berkembang masif sampai ke 150 negara dengan korban ratusan ribu komputer terinfeksi WannaCry. Akhirnya pemerintah turun tangan di hari Minggu untuk menenangkan suasana dan mengambil langkah-langkah preventif menghadapi krisis ini.
+
+Saat ini setelah suasana mulai cooling-down, muncul pertanyaan siapa dalang dan apa sebenarnya motif serangan ransomware WannaCry? Untuk itu mari kita coba merunut fakta dan informasi yang berkembang beberapa hari belakangan ini.
+
+1. WannaCry merupakan malware yang menyerang sistem Windows (daftar Windows yang berisiko di sini) dengan memanfaatkan celah di SMB v1 melalui port 139 (NetBIOS)/445 (sharing file), 3389 (remote desktop) dengan mengenkripsi file dan meminta tebusan untuk membuka kunci tersebut. Bagaimana malware itu bekerja dengan membuat Doblepulsar backdoor dan menggunakan jaringan Tor agar susah dilacak, bisa dibaca di sini.
+
+2. Tools yang dipakai adalah Eternal Blue yang dicuri dari NSA Amerika oleh organisasi kejahatan siber Shadow Broker yang masih belum terlacak.
+
+3. Malware ini adalah versi ke-2 setelah yang pertama WCry diluncurkan pada Februari 2017.
+
+4. File yang terenkripsi sampai sekarang belum ada solusi untuk membukanya. Beberapa tool dari Mark Scott ataupun sensortech yang dicoba pada komputer korban, masih belum berhasil merestore file
+
+5. Langkah yang paling tepat adalah mencegah malware ini masuk dengan melakukan patch seperti yang dikomunikasikan Kominfo. Apabila terlanjur terserang, hanya reformat dan re-install Windows yang bisa dilakukan dengan risiko data yang belum dibackup akan hilang.
+
+6. Kerugian yang dialami Indonesia cenderung minimal, atau belum terkuak. Tercatat serangan ini melumpuhkan pelayanan satu rumah sakit serta beberapa komputer server obselete di sebuah BUMN (kerugian materialnya kecil kata Kadiv SIM bersangkutan) dan di kantor Samsat, sementara kita tahu betapa besar komunitas Windows bajakan di Indonesia.
+
+7. Kerugian terbesar yang tercatat akibat serangan ini adalah Rusia yang mencapai lebih dari 70% dari serangan di seluruh dunia.
+
+Sepertinya motif serangan adalah uang seperti yang dituntut oleh ransomware tersebut sebesar USD 300 dalam bentuk bitcoin. Namun setelah ditelusuri oleh Dimaz Ankaa Wijaya di sini, tercatat hanya ada 3 wallet bitcoin yang semuanya ditulis manual (hardcoded)
+
+1. 12t9YDPgwueZ9NyMgw519p7AA8isjr6SMw
+2. 115p7UMMngoj1pMvkpHijcRdfJNXj6LrLn
+3. 13AM4VW2dhxYgXeQepoHkHSQuy6NgaEb94
+
+Sungguh menjadi pertanyaan karena dengan menggunakan metode pembayaran Bitcoin seperti yang digunakan oleh WannaCry, aplikasi akan sangat sulit menentukan apakah korban telah melakukan pembayaran.
+
+Dengan demikian dapat diragukan apakah ransomware tersebut benar-benar menepati janjinya untuk "membebaskan" dokumen elektronik yang tersandera meskipun pembayaran telah dilakukan. Artinya malware ini memang sebenarnya tidak untuk diniatkan untuk menjadi ransomware.
+
+Total transaksi per tulisan ini dibuat hanya sebanyak 217 dengan dana yang masuk sebesar 32.4 BTC atau sekitar Rp 800juta. Suatu angka yang kecil sekali dibandingkan begitu banyaknya komputer yang tersandera dengan begitu banyak sistem kritikal dengan data strategis yang terkunci, di seluruh dunia. Jadi, apa sebenarnya motif dari serangan ini?
+
+Ardi Sutedja dari ICSF mendapatkan laporan mengenai varian baru dari ransomware ini dengan karakter yang lebih berbahaya: malware yang tidak memiliki kill switch, mampu bersembunyi di balik berbagai aplikasi, dan hibernate (tidur) dalam waktu yang cukup lama sebelum bangun kembali berdasarkan waktu yang telah ditentukan. Artinya ransomware baru yang kita hadapi ini bukan sembarangkan ransomware, tapi sudah masuk kategori "Military Grade".
+
+Jadi apakah pembuat WannaCry ini termasuk hacker pemula seperti yang dikemukakan Alex Hern? Menurut kami tidak. Memang diketahui ada beberapa varian WannaCry yang kemungkinan dibuat oleh orang yang berbeda, namun Ardi Sutedja meyakini dengan pola seperti ini, hacker adalah State Actor atau State Sponsored Attack yang dikonfirmasikan di sini.
+
+Serangan yang terjadi pada Sabtu dan Minggu lalu di seluruh dunia diyakini hanyalah permulaan dari serangan-serangan senyap yang akan terjadi di kemudian hari. WCry pada Februari 2017 merupakan serangan test the water, WannaCry saat ini merupakan diversion attack, dan serangan intinya tersembunyi sampai entah kapan nanti diluncurkan.
+
+Diperlukan kesiapan kita semua karena Cyber Security merupakan sebuah keahlian yang sangat langka untuk mampu mengantisipasi, mencegah dan menangkal - Hambatan, Tantangan, Ancaman & Gangguan di ruang siber nasional kita. Pemerintah perlu bertindak cepat dan tegas di sini.

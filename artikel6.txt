@@ -1,0 +1,15 @@
+Menteri Komunikasi dan Informatika (Menkominfo) Rudiantara, mengatakan sampai saat ini sudah ada ribuan alamat IP di Indonesia yang terjangkit ransomware WannaCrypt atau dikenal juga dengan nama WannaCry.
+
+"Kalau dilihat secara IP adress itu ada ribuan, angka pastinya saya belum, tapi ada ribuan," ujar Rudiantara ditemui usai seminar Polemik Tarif Data di Djakarta Theater, Jakarta, Selasa (16/5/2017).
+
+Angka serangan tersebut diketahui berdasarkan laporan yang diterima Kementerian Komunikasi dan Informatika (Kominfo), sejak dibukannya call center terkait serangan WannaCry mewabah pada Sabtu (13/5/2017), kemarin.
+
+"Laporan itu juga kami tanya lebih detail, tanya lebih untuk akurasi. Pokoknya ribuan IP yang kena mulai dari sektor perkebunan, manufaktur, Samsat di Sulawesi, hingga perbankan di level daerah," ucapnya.
+
+Selain itu, Menkominfo memastikan bahwa rumah sakit yang terjangkit sampai sekarang baru RS Dharmais, tidak dengan RS Harapan Kita yang beredar belakangan ini.
+
+"Saat dapat informasi Harapan Kita, saya langsung telepon Direktur Utamanya untuk cek lebih detail, ternyata gak," ucapnya.
+
+Meski telah menyerang ribuaan IP, dikatakan Rudiantara, bahwa serangan di Indonesia tidak separah dengan yang dialami negara lainnya.
+
+"Inti kita ini bukan negara yang terpapar parah dibandingkan negara lain, karena sejak ada informasi serangan, kita sudah kerja sejak Sabtu kemarin," jelasnya.

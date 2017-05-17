@@ -1,0 +1,17 @@
+Dua perusahaan sekuriti ternama, Symantec dan Kaspersky, menemukan bukti bahwa ransomware WannaCry yang sedang menghebohkan memiliki keterkaitan dengan kelompok hacker asal Korea Utara. Yaitu Lazarus Group.
+
+Dikutip detikINET dari Guardian, detail teknis di versi awal WannaCry sama dengan kode yang dipakai di program backdoor yang digunakan oleh hacker yang diduga dipekerjakan pemerintah Korut.
+
+Program itu dipakai menyerang Sony Pictures dan juga untuk mencuri uang USD 81 juta dari bank di Bangladesh. Lazarus Group juga dikenal menggunakan dan mengincar bitcoin dalam operasinya.
+
+Saksikan video 20detik tentang Ransomware WannaCry di sini:
+
+Kemiripan itu pertama kali ditemukan oleh periset sekuriti Google, Neal Mehta yang diamini Symantec dan Kaspersky. Namun memang kode yang sama bukan berarti otomatis penyerangan dilakukan kelompok hacker yang sama. Bisa saja hacker lain yang menggunakannya agar tak mudah teridentifikasi.
+
+"Penting agar periset lain di seluruh dunia menginvestigasi kemiripan itu dan berupaya menemukan lebih banyak fakta tentang asal WannaCry," sebut Kaspersky.
+
+Kaspersky sendiri sudah lama menyelidiki tentang sepak terjang Lazarus Group. Kelompok hacker ini cukup canggih dalam melakukan operasinya.
+
+"Level kecanggihan mereka tidak umum ditemukan di dunia kriminalitas siber. Sesuatu yang membutuhkan organisasi dan kontrol yang ketat," sebut Kaspersky.
+
+Di sisi lain, beberapa pakar sekuriti menilai serangan WannaCry yang sporadis dan hanya meminta sedikit imbalan uang bisa jadi pertanda yang melakukannya adalah hacker kurang kompeten. Namun tak menutup kemungkinan pula bahwa itu dilakukan secara sengaja oleh pelakunya untuk menutupi jejak.

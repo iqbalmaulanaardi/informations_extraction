@@ -1,0 +1,45 @@
+Pelaku teror dunia maya yang mengirim ransomware WannaCrypt atau WannaCry ke 150 negara meminta tebusan bitcoin. Bitcoin merupakan mata uang kripto (cryptocurrency) yang kabarnya sulit dilacak.
+
+Bitcoin pertama kali muncul pada Februari 2009 oleh seseorang yang mengaku bernama Satoshi Nakamoto. Sejak kemunculan pertamanya, para pemegang bitcoin tetap anonimus sampai sekarang.
+
+Itulah mengapa para teroris siber ini meminta bitcoin setara US$ 300 kepada para korbannya. Setiap hari, nilai tebusannya makin tinggi, dan jika tidak dipenuhi maka data si korban akan dihapus.
+
+"Bitcoin itu seperti uang digital. Transaksinya tidak melibatkan nama dan tidak bisa dibatalkan. Meski begitu, bitcoin masih bisa dilacak," kata Nicolas Debock dari Balderton Capital, yang fokus bertransaksi di mata uang virtual seperti dikutip dari AFP, Rabu (17/5/2017).
+
+"Semua transaksi disimpan di database yang disebut blockchains. Tidak ada nama pemegangnya, tapi semua orang bisa melihat alamat dan pergerakan uangnya," katanya.
+
+"Seseorang tidak bisa mencairkan bitcoin milik orang lain, tapi bisa memonitor pergerakannya," tambahnya lagi.
+
+Sayangnya, para penyelidik akan kesulitan untuk membuktikan kepemilikan uang dalam bentuk bitcoin itu karena tidak terikat dengan bank atau alamat fisik tertentu.
+
+Harta dan Kekayaan Bukan Tujuan Utama
+
+Clement Francomme, Direktur Utocat, perusahaan software dengan spesialisasi blockchains, mengatakan aksi peras yang dilakukan para dedemit dunia maya ini bukan semata harta dan kekayaan saja.
+
+"Idenya mungkin saja untuk menunjukkan kepada seluruh dunia mereka bisa menjalankan aksi yang sangat masif. Dengan aksi seperti itu, mereka akan menjadi terkenal di kalangan peretas," katanya.
+
+"Bahkan mungkin saja mereka juga tidak berniat menghabiskan bitcoin hasil tebusan para korban, karena tahu pergerakannya diawasi. Tujuannya utamanya adalah memunculkan reputasi supaya bisa mendapat pengakuan," ujarnya.
+
+Para hacker ini, menurut Francomme, masih akan menjalankan aksi lagi dalam waktu dekat. Sampai saat ini, para penyelidik belum mendapatkan kepastian serangan tersebut dilancarkan dari negara mana.
+
+Amankah Mata Uang Kripto?
+
+Mencuatnya isu serangan siber ransomware WannaCry telah menyita perhatian publik dan pelaku industri keuangan.
+
+Sesuai nama dan jenisnya, Ransomware meminta sebuah tebusan (ransom=tebusan, ware=malware/virus). Cara kerjanya, serangan siber itu menyerang perangkat komputer dengan sistem operasi Microsoft Windows dan mengunci datanya, sehingga pengguna tidak bisa mengakses data tersebut.
+
+Pelaku penyerangan siber itu akan meminta tebusan. Namun bukan uang biasa yang mereka minta, melainkan Bitcoin dengan nilai US$ 300. Penjahat siber itu juga tidak menyediakan pilihan pembayaran lain, mereka hanya minta Bitcoin.
+
+Smart Banking System (SBXBank), salah satu perusahaan teknologi finansial (fintech) yang bergerak di ranah mata uang kripto membantah mata uang digital tersebut adalah mata uang yang biasa digunakan penjahat siber.
+
+"Mata uang kripto tidak hanya bitcoin. Ada jenis lain yang juga dikenal oleh masyarakat yaitu SBX Coin," ujar Dato Seri Syarif Hidayatullah, CEO SBXBank Indonesia dalam keterangan tertulis.
+
+Sebaliknya, menurut Syarif, mata uang kripto adalah jenis mata uang baru yang sangat aman digunakan untuk transaksi di dunia maya. Mata uang kripto juga adalah alat pembayaran yang murah, serta gratis, tanpa bea jika ditransfer secara internasional.
+
+"Kita mempunyai KYC yang bisa hindari money laundering dan terrorism tidak seperti bitcoin," ujarnya.
+
+SBXBank sebagai salah satu bank mata uang kripto, bisa dibilang yang pertama kali di dunia menyediakan layanan perbankan digital. Mata uang yang diterbitkan SBXBank dengan sebutan SBXcoin, selain bisa digunakan untuk pembayaran tanpa batas negara, bisa juga untuk investasi.
+
+"SBXcoin juga menjadi media pembayaran di marketplace SBXbank, yang dimudahkan dengan debit card yang bisa smart card yang bisa menampung 30 kartu debit card dan eMoney," ujar Syarif.
+
+Selain pembayaran, dengan SBXcoin para pengguna juga bisa melakukan simpan pinjam (peer to peer lending). Investasi yang mirip deposito pun bisa dilakukan dengan SBXcoin yang disebut peer to peer investment.

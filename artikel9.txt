@@ -1,0 +1,27 @@
+Ransomware bukan hal baru di dunia kejahatan cyber, karena skema kejahatan ini sudah ada sejak satu dekade yang lalu. Namun ransomware baru naik daun beberapa tahun belakangan, setelah menjadikan rumah sakit menjadi sasaran utamanya.
+
+Skema kejahatannya cukup sederhana, malware ini mencari jalan ke server atau komputer dan mengenkripsi data sehingga tak bisa diakses penggunanya. Saat si korban membayar uang tebusan, barulah enkripsi ini dibuka oleh si pelaku.
+
+Dengan skema semacam ini, rumah sakit -- atau penyedia layanan kesehatan lain -- tentu jadi target yang paling empuk bagi para dedemit maya pembuat ransomware. Pasalnya rumah sakit sangat bergantung pada database pasien, yang setidaknya berisi rekam medis para pasiennya.
+
+Dengan catatan rumah sakit yang menjadi korban ransomware sudah menganut sistem yang terkomputerisasi. Rumah sakit yang masih mengandalkan rekam medis dalam bentuk dokumen kertas tentu tak akan terpengaruh dengan serangan semacam ini.
+
+Jika rekam medis pasien tak bisa diakses, tentu jasa pelayanan medis mereka akan terhambat. Pihak rumah sakit tak bisa mengetahui sejarah kesehatan si pasien, seperti obat yang pernah diberikan atau pun alergi obat yang diderita pasien.
+
+Terhambatnya tindakan medis ini membuat pihak rumah sakit terancam risiko yang lebih berat ketimbang membayarkan uang tebusan, yaitu nyawa pasien dan gugatan dari pasien.
+
+"Saat anda mempunyai pasien, anda akan panik dengan sangat cepat (ketika diserang ransomware)," ujar Stu Sjouwerman, CEO perusahaan keamanan bernama KnowBe4, demikian dikutip detikINET dari Wired, Selasa (16/5/2017).
+
+Alasan lain yang membuat rumah sakit menjadi target empuk ransomware adalah, kebanyakan pegawai di rumah sakit tak terlatih akan keamanan cyber. Kebanyakan dari mereka lebih memperhatikan bermacam aturan soal menjaga privasi pasien.
+
+Sebelum kasus ransomware WannaCry muncul, setidaknya ada dua kasus ransomware menyerang rumah sakit yang cukup menarik perhatian. Yang pertama adalah serangan ke Hollywood Presbyterian Medical Center di Los Angeles, yang data-datanya disandera oleh ransomware bernama Locky.
+
+Pihak rumah sakit akhirnya membayarkan uang tebusan sebesar USD 17 ribu dalam bentuk bitcoin, setelah rumah sakit itu 'offline' selama lebih dari seminggu. Lalu ada juga serangan ke Methodist Hospital di Henderson, Kentucky, Amerika Serikat, yang juga diserang memakai ransomware Locky.
+
+Pihak rumah sakit sempat menyatakan rumah sakit itu dalam kondisi darurat selama tiga hari. Meski akhirnya kondisi kembali normal setelah pihak rumah sakit mengaku mempunyai backup data yang disandera, sehingga mereka tak perlu membayar uang tebusan.
+
+Cerita di atas sedikit berbeda dengan ransomware WannaCry, di mana uang tebusan yang dipatok oleh si penyandera jumlahnya tak terlalu besar, hanya USD 300.
+
+Ransomware WannaCry berbasis pada program yang dikembangkan National Security Agency (NSA) milik Amerika Serikat. WannaCry akan menyandera data korban dan meminta uang tebusan jika korbannya ingin data tersebut dikembalikan.
+
+WannaCry memanfaatkan celah keamanan di sistem operasi jadul Microsoft, juga sistem operasi anyar yang tak memperbarui patch keamanannya. Menurut Europol, ransomware ini mulai menyerang pada Jumat (12/5/2017) lalu dan dua hari kemudian sudah menginfeksi sekitar 200 ribu komputer di 150 negara.
